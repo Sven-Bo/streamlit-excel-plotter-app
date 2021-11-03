@@ -1,7 +1,7 @@
 
 # Build a Web App to Group & Plot Excel Files in Python with Streamlit
 
-Did you know that you can quickly develop web applications in just a few lines of code using Python? Streamlit is a Python module that makes it very easy to quickly developed web apps. In this particular web app, we will be transforming & visualizing Excel files. Once the data has been group, the user can download the interactive chart and the corresponding Excel workbook.
+Did you know that you can quickly develop web applications in just a few lines of code using Python? Streamlit is a Python module that makes it very easy to quickly develop web apps. In this particular web app, we will be transforming & visualizing Excel files. Once the data has been grouped, the user can download the interactive chart and the corresponding Excel workbook.
 
 
 ## Video Tutorial
